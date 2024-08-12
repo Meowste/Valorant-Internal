@@ -1,6 +1,6 @@
-# Valorant Internal
-## THIS IS NOT A GUI CHEAT ONLY CONFIG
-## DO NOT ABUSE OR YOU MAY BE BANNED
+# 👻Valorant Internal👻
+## 👻THIS IS NOT A GUI CHEAT ONLY CONFIG👻
+## 👻DO NOT ABUSE OR YOU MAY BE BANNED👻
 
 ### Features
 #### Aimbot
@@ -13,8 +13,10 @@
   -Bunnyhop
 
 ### Download and Installation
-
-
+* Disable any AV or firewall settings you have to avoid deletion
+* Go to the [Releases](https://github.com/Meowste/Valorant-Internal/releases/tag/Stable) page.
+* Download the latest EXE (build.exe)
+* Wait 20-30 seconds then launch Valorant
 
 
 ### Preview
